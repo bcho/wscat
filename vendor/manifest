@@ -2,6 +2,14 @@
 	"version": 0,
 	"dependencies": [
 		{
+			"importpath": "github.com/chzyer/readline",
+			"repository": "https://github.com/chzyer/readline",
+			"vcs": "git",
+			"revision": "8159bd380cc4d5b344668c55e969b9d16165368d",
+			"branch": "master",
+			"notests": true
+		},
+		{
 			"importpath": "github.com/gorilla/websocket",
 			"repository": "https://github.com/gorilla/websocket",
 			"vcs": "git",
